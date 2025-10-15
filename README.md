@@ -19,3 +19,6 @@ https://www.youtube.com/watch?v=pYb0-U653hs
 
 ## Foundation in Dart
 https://youtube.com/playlist?list=PLXKp9RCWhZOMyd-HaP_F1qTJGuVm-Ou_D
+
+## Flutter responsive split screen design 
+https://youtube.com/playlist?list=PLXKp9RCWhZOMo3IQUCPrC1G1evrOx6lck
