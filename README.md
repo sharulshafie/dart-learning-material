@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=6tUiFRrrLsw
 
 ## How to Publish Flutter Apps: Step-by-Step App Store + Google Play Tutorial
 https://www.youtube.com/watch?v=pYb0-U653hs
+
+## Foundation in Dart
+https://youtube.com/playlist?list=PLXKp9RCWhZOMyd-HaP_F1qTJGuVm-Ou_D
